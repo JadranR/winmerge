@@ -46,7 +46,7 @@ msgid "Copy fro&m Right"
 msgstr "Kopiraj iz de&sne"
 
 msgid "&Select Line Difference\tF4"
-msgstr ""
+msgstr "Izberi raz&liko v vrstici\tF4"
 
 #, c-format
 msgid "&Undo"
@@ -69,7 +69,7 @@ msgid "&Paste"
 msgstr "&Prilepi"
 
 msgid "&Go to...\tCtrl+G"
-msgstr ""
+msgstr "Po&jdi na...\tCtrl+G"
 
 msgid "Go to Moved Line Between Left and Middle\tCtrl+Shift+G"
 msgstr "Pojdi na premaknjeno vrstico med levo in srednjo\tCtrl+Shift+G"
@@ -351,7 +351,7 @@ msgstr "P&revodi"
 
 #, c-format
 msgid "C&onfiguration"
-msgstr "&Dnevnik nastavitev"
+msgstr "&Nastavitve"
 
 #, c-format
 msgid "&GNU General Public License"
@@ -566,7 +566,7 @@ msgid "Save &Right As..."
 msgstr "Shrani l&evo kot..."
 
 msgid "&Print...\tCtrl+P"
-msgstr ""
+msgstr "Na&tisni...\tCtrl+P"
 
 msgid "Page Set&up..."
 msgstr "Nastavitev &strani..."
@@ -588,7 +588,7 @@ msgstr "Znova nal&oži\tCtrl+F5"
 
 #, c-format
 msgid "&File Encoding..."
-msgstr "De&kodiranje datoteke..."
+msgstr "&Kodiranje datoteke..."
 
 #, c-format
 msgid "Reco&mpare As"
@@ -1147,7 +1147,7 @@ msgid "About WinMerge"
 msgstr "Vizitka"
 
 msgid "Visit the WinMerge Homepage!"
-msgstr ""
+msgstr "Obisk domače strani WinMerge"
 
 #, c-format
 msgid "OK"
@@ -1330,7 +1330,7 @@ msgid "Find &Prev"
 msgstr "Najdi pre&jšnje"
 
 msgid "&OK"
-msgstr ""
+msgstr "&Vrdu"
 
 #, c-format
 msgid "Replace"
@@ -1628,17 +1628,17 @@ msgid "Items total:"
 msgstr "Skupaj vnosov:"
 
 msgid "Go to"
-msgstr ""
+msgstr "Pojdi na"
 
 msgid "G&o to:"
-msgstr ""
+msgstr "Poj&di na:"
 
 #, c-format
 msgid "File"
 msgstr "Datoteka"
 
 msgid "Go to what"
-msgstr ""
+msgstr "Pojdi na (kaj)?"
 
 #, c-format
 msgid "Li&ne"
@@ -1649,7 +1649,7 @@ msgid "&Difference"
 msgstr "&Razlika"
 
 msgid "&Go to"
-msgstr ""
+msgstr "Po&jdi na"
 
 #, c-format
 msgid "Compare"
@@ -2259,9 +2259,7 @@ msgstr "Omejitev &hitre primerjave (MB):"
 msgid "&Binary compare limit (MB):"
 msgstr "Omejitev d&vojiške primerjave (MB):"
 
-msgid ""
-"\n"
-"&Number of compare threads (a negative value implies addition of the number of available CPU cores):"
+msgid "\n&Number of compare threads (a negative value implies addition of the number of available CPU cores):"
 msgstr "Število primerjalnih &niti (negativna vrednost pomeni dodajanje števila razpoložljivih jeder CPE):"
 
 msgid "&CSV File Patterns:"
@@ -2584,7 +2582,7 @@ msgstr "Ni uspela namestitev datoteke filtra.\n\nNi mogoče kopirati nove datote
 
 #, c-format
 msgid "Filter file already exists. Overwrite existing filter?"
-msgstr "Filter datoteka že obstaja. Prepišem obstoječi filter?"
+msgstr "Filter datotek že obstaja. Prepišem obstoječi filter?"
 
 #, c-format
 msgid "Regular expression"
@@ -3331,7 +3329,7 @@ msgstr "Datoteka Poročila že obstaja. Ali jo želite prepisati?"
 
 #, c-format
 msgid "Error creating the report:\n%1"
-msgstr ""
+msgstr "Napaka pri ustvarjanju poročila:\n%1"
 
 #, c-format
 msgid "The report has been created successfully."
@@ -3508,7 +3506,7 @@ msgid "Folder does not exist."
 msgstr "Mapa ne obstaja."
 
 msgid "Archive support is not enabled.\nAll needed components (7-Zip and/or Merge7z*.dll) for archive support cannot be found.\nSee manual for more info about archive support and how to enable it."
-msgstr ""
+msgstr "Podpora za arhiv ni omogočena.\nVse potrebne komponente (7-Zip in/ali Merge7z*.dll) za podporo arhivov ni mogoče najti.\nOglejte si priročnik za več informacij o podpori za arhivov in kako jo omogočiti."
 
 #, c-format
 msgid "Select file for export"
@@ -3542,7 +3540,7 @@ msgstr "Ste pred tem, da zaprete nekaj primerjalnih oken.\n\nAli želite nadalje
 msgid "Mixed"
 msgstr "Mešano"
 
-msgctxt "EOL Type"
+msgctxt "Vrsta KnV"
 msgid "Binary"
 msgstr "Dvojiško"
 
@@ -3689,7 +3687,7 @@ msgstr "<Samodejno>"
 
 #, c-format
 msgid "G&o to Line %1"
-msgstr ""
+msgstr "Pojdi na v&rstico %1"
 
 msgid "Go to Moved Line\tCtrl+Shift+G"
 msgstr "Pojdi na premaknjeno vrstico\tCtrl+Shift+G"
@@ -3750,7 +3748,7 @@ msgid "Enable &Auto Max Width"
 msgstr "Omogoči sa&modejno največjo širino"
 
 msgid "Frhed is not installed."
-msgstr ""
+msgstr "Frhed ni nameščen"
 
 #, c-format
 msgid "%1 does not exist. Do you want to create it?"
